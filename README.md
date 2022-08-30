@@ -1,4 +1,3 @@
-<h1 align="center">Nick Jacobs</h1>
 <h3 align="center">Ex Air Traffic Controller & USAF Veteran, Turned Backend Developer</h3>
 
 <h3 align="center">Connect with me:</h3>
